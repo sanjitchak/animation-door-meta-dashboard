@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Animation Door">
+  <rect width="256" height="256" rx="56" fill="#24182f"/>
+  <path d="M48 49h73v158H48z" fill="#6c36c9"/>
+  <path d="M135 49h73v158h-73z" fill="#ff7a21"/>
+  <path d="M82 82h92v125H82z" fill="#fff4e4"/>
+  <path d="M128 91l46-9v125l-46-12z" fill="#ff9c3d"/>
+  <circle cx="158" cy="145" r="7" fill="#24182f"/>
+  <circle cx="74" cy="67" r="13" fill="#a8d9c4"/>
+</svg>
